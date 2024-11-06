@@ -1,1 +1,3 @@
-# numbers_nft-fragment.com-
+# numbers_nft
+
+`cargo run`
