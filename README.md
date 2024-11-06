@@ -1,3 +1,5 @@
 # numbers_nft
 
-`cargo run`
+```cmd
+  cargo run
+```
